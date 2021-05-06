@@ -1,0 +1,15 @@
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\WeatherAPIExercise.exe
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\WeatherAPIExercise.deps.json
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\WeatherAPIExercise.runtimeconfig.json
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\WeatherAPIExercise.runtimeconfig.dev.json
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\WeatherAPIExercise.dll
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\WeatherAPIExercise.pdb
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.csprojAssemblyReference.cache
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.AssemblyInfoInputs.cache
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.AssemblyInfo.cs
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.csproj.CoreCompileInputs.cache
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.csproj.CopyComplete
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.dll
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.pdb
+C:\Users\anton\repos\WeatherAPIExercise\WeatherAPIExercise\obj\Debug\netcoreapp3.1\WeatherAPIExercise.genruntimeconfig.cache
